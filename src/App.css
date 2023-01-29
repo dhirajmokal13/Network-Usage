@@ -46,3 +46,25 @@
 .leaflet-marker-icon {
   color: red;
 }
+
+.bar {
+  height: 20px;
+  padding: 5px 25px;
+}
+
+.barHead {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  font-size: large;
+  color: #208083;
+}
+
+.webHead {
+  text-align: center;
+  font-family: 'emoji';
+  color: #208083;
+}
+
+.city-name {
+  color: rgb(173, 45, 13);
+}
