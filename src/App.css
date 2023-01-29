@@ -54,7 +54,7 @@
 
 @media only screen and (max-width: 600px) {
   .bar {
-    font-size: 13px;
+    font-size: 13px !important;
   }
 }
 
